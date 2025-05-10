@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": ["",{"text":"DISSATISFIED 16x","bold":true,"color":"#986AE0"},{"text":"\n"},{"text":"v0.3.3","color":"gray"},{"text":" - @GalacticUniv","color":"dark_gray"}],
+    "pack_format": 18,
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 63
+    }
+  }
+}

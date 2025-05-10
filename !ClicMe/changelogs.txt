@@ -1,0 +1,120 @@
+⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆
+S U M M A R Y
+[Dec 13, 2022]	v0.1.0 ⋆Armor&Tools Update⋆
+[Mar 11, 2023]	v0.2.0 ⋆Trims Update⋆
+[Mar 26, 2023]	v0.2.1 ⋆Trims Update Fix⋆
+[Dec 1, 2023]	v0.3.0 ⋆New Era Update⋆
+[Dec 15, 2023]	v0.3.1 ⋆New Era Update Fix⋆
+[Dec 30, 2023]	v0.3.2 ⋆New Era Update Fix 2⋆
+[Jun 20, 2024]	v0.3.3 ⋆Public Fix⋆
+[XXX XX, XXXX]	v0.4.0 ⋆Colors Update⋆
+⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆
+
+[Dec 13, 2022]
+DISSATISFIED: Armor&Tools Update
+v0.2.0 Changelog
+
+• This texture pack just started from here lol, is really fun to create and help to improve my packmaking levels
++ Added all armors
++ Added all tools and swords,
++ Added Enchanted Golden Apples, Carrots and Shears
++ Added almost all ores in game
+
+⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆
+
+[Mar 11, 2023]
+DISSATISFIED: Armor Trims
+v0.2.0 Changelog
+
++ Added armor trims models
++ Added armor trims items
+• The pack is now MC version 1.20
+• Re-created the diamond item
+• Modified Gold Sword
+• The leather armor is now a bit darker
+
+⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆
+
+[Mar 26, 2023]
+DISSATISFIED: Armor Trims Fix
+v0.2.1 Changelog
+
++ Added the 5 new armor trims
+• Smol bug fixes
+
+⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆
+
+[Dec 1, 2023]	 	
+DISSATISFIED: New Era Update
+v0.3.0
+
++ Added all the GUI's of MC (Old)
++ Added custom panorama ("credits.txt") and overlay in the MainMenu
++ Added Wood logs and planks
++ Added Bamboo
++ Added all ores and his blocks
++ Added all the paper and iron related items and blocks
++ Created "Changelog.txt" file (yeah this file from here, Does anyone read this? lol)
++ now compatible with AppleSkin mod
++ Created new stone pallete for tools
++ Added all doors and trapdoors (wood)
++ Added birch leaves and sapling (diferent color leaves)
++ Added all "dirt related" things
++ Added minecraft logo, panorama, etc
+• Modified all the GUI's of MC (New)
+• Modified pack.mcmeta and readme.txt
+• Modified some items: swords, apples, etc
+• Now is 1.20.2 compatible (i think)
+• Changed the desc a lil bit
+• Modified stone tools
+• Modified diamond, iron and gold sword
+- Removed Herobrine
+
+⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆
+
+[Dec 15, 2023]	 	
+DISSATISFIED: New Era Update Fix
+v0.3.1
+
++ Added Bedrock
+• Fixed some errors in the GUI
+• Fixed the red box in pack selector in the real MC version of the pack
+• Changed the Diamond color pallete and textures
+• Changed the texture of the iron ingot
+
+⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆
+
+[Dec 30, 2023]	 	
+DISSATISFIED: New Era Update Fix
+v0.3.2
+
++ Added almost all wood related work blocks
+• Fixed random things in the GUI's
+
+⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆
+
+[Jun 20, 2024]	 	
+DISSATISFIED: Public Fix
+v0.3.3
+
+• Changed the panorama to a original and custom one (Tysm cliff for the help <3)
+• Fixed a bug of the pack dont showing in the texture pack changer
+
+⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆⋆━━━━━━━━━༺❀༻━━━━━━━━━⋆
+
+[XXX XX, XXXX]	 	
+DISSATISFIED: Colors update
+v0.4.0
+
++ Added all dyes colors
++ Added all wools
++ Added all signs and hanging signs
++ Added chest
++ Added all beds
++ Added all stones plus stone related blocks like ores. workbenchs, all furnaces, some redstone and more
+• Modified all colors of color related blocks (Concrete, wool, terracota, etc)
+• Fixed some bugs
+• Changed a lot of things in the GUI's
+- Removed Herobrine
+
+
